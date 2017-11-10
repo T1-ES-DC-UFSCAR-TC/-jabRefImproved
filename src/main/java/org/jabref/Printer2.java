@@ -1,4 +1,5 @@
 class Printer
 {
-public Printer(){}
+    public Printer(){}
+    public Status(){}
 }
